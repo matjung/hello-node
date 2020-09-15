@@ -4,8 +4,6 @@
   "description": "html customEelements.define('hello-node',HelloNode);",
   "main": "hello-node.js",
   "scripts": {
-    "preinstall" : "echo \"preinstall: no test required\" && exit 0",
-    "install" : "echo \"install: no text required\" && exit 0",
     "test": "echo \"package test: no test required\" && exit 0"
   },
   "repository": {
