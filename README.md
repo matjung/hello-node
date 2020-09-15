@@ -15,7 +15,15 @@ hello-node displays as <h1>Hello Node</h1> when your browser supports customized
 
 ### Local Installation
 
-npm install @matjung/hello-node --no-save
+npm install @matjung/hello-node
+( you need to be in a valid npm folder before you install that package )
+( Remember: npm init )
 
 ### Demo page
 https://repl.it/@matjung/DryEllipticalProcedures#index.html
+
+### Package 1.0.1
+https://www.npmjs.com/package/@matjung/hello-node
+
+### Known Issues / TODO
+Make the package compatible with runkit
