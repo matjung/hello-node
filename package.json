@@ -1,0 +1,24 @@
+{
+  "name": "@matjung/hello-node",
+  "version": "1.0.0",
+  "description": "html customEelements.define('hello-node',HelloNode);",
+  "main": "hello-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matjung/hello-node.git"
+  },
+  "keywords": [
+    "html",
+    "customElement",
+    "hello-node"
+  ],
+  "author": "matjung",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/matjung/hello-node/issues"
+  },
+  "homepage": "https://github.com/matjung/hello-node#readme"
+}
