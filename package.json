@@ -1,8 +1,8 @@
 {
   "name": "@matjung/hello-node",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "html customEelements.define('hello-node',HelloNode);",
-  "main": "hello-node.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"package test: no test required\" && exit 0"
   },
