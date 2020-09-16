@@ -27,3 +27,12 @@ https://www.npmjs.com/package/@matjung/hello-node
 
 ### Known Issues / TODO
 Make the package compatible with runkit
+
+Currently hello-node is a front end component, not a back end component. This means that 
+
+var helloNode = require("@matjung/hello-node")
+
+is not going to work - but it may download the code from npmjs to your development environment.
+Technically HelloNode extends HTMLElement
+Well HTMLElement is not a Node package.
+I will research if webcomponents could be used instead of HTMLElement.
